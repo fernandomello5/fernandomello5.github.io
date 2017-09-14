@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Hello World (or 'How I started worrying and learned to love blogging again")!
+title: Hello World!
 published: true
 ---
+#(or "How I stopped worrying and learned to love blogging again")#
+
+
 
 So, this is my first post here!
 
