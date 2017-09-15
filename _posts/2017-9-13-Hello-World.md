@@ -9,7 +9,9 @@ _**(or "How I stopped worrying and learned to love blogging again")**_
 
 So, this is my first post here!
 
-For the moment, I don't have anything prepare for starting today, just setting this space up.
+For the moment, I don't have anything prepared for starting today, just setting this space up.
+
+!["Yes, I can."]({{site.baseurl}}/https://media0.giphy.com/media/xTiTnp2F5Cc9lu2GwE/giphy.gif)
 
 But, as I'm a superb cool guy, I will share some of my favorite podcasts about **digital marketing**:
 
