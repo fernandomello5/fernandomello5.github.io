@@ -8,7 +8,9 @@ published: true
  
 **Digital Marketing Specialist & Digital Analytics Professional**.
 
-This is a space where I wanna write about the things I wanna **explore** the things and some I've learned along the way.
+Welcome to my portfolio!
+
+This is a space where I will show off some of my skills on data analysis focused on digital marketing.
 
 
 ### Background
